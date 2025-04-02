@@ -1,0 +1,11 @@
+name: C/C++ woraphat yiangklang
+  push:data software
+    branches: [ "pivacy" ]
+  pull_request: input output plus software 
+    branches: [ "master software" ]
+
+jobs: data software pivacy
+  build: https://github.com/masterhuman/openbabel.wikipedia
+    steps:input/output
+    - uses: actions/freecheckout data software pivacy=mail.cloud2025@gmail.com
+
