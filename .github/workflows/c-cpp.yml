@@ -5,7 +5,7 @@ name: C/C++ woraphat yiangklang
     branches: [ "master software" ]
 
 jobs: data software pivacy
-  build: https://github.com/masterhuman/openbabel.wikipedia
+  build: https://github.com/masterhuman/openbabel.wikipedia.data software = google.net@pivacy
     steps:input/output
     - uses: actions/freecheckout data software pivacy=mail.cloud2025@gmail.com
 
